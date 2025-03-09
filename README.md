@@ -6,13 +6,13 @@ Thanks to caching, no API was harmed in the main loop.
 
 ## Installation
 
-```
-$ go install github.com/ahmadfudl/pokedex
+```console
+$ go install github.com/ahmadfudl/pokedex@latest
 ```
 
 ## Usage
 
-```
+```console
 $ pokedex
 pokedex > help
 Welcome to the Pokedex!
